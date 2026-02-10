@@ -1,0 +1,8 @@
+{
+  "final_model": "log_reg",
+  "positive_class": 1,
+  "threshold": 0.6,
+  "threshold_selected_by": "max_train_f1_over_grid",
+  "note": "Use this threshold on predicted probabilities for class 1 during inference.",
+  "created_utc": "2026-02-10T17:04:41.145265Z"
+}
