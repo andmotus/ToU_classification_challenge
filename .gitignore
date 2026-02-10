@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+venv/
+.env/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data if data too big
+data/raw/*.csv
+# data/*.xlsx
+# data/*.json
+
+# Models
+models/
+
+# VS Code
+.vscode/
