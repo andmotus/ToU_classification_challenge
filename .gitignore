@@ -21,7 +21,7 @@ data/raw/*.csv
 # data/*.json
 
 # Models
-models/
+# models/
 
 # VS Code
 .vscode/
