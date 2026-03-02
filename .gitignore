@@ -25,3 +25,7 @@ data/raw/*.csv
 
 # VS Code
 .vscode/
+
+# alignment_statement
+# alignment_statement.md
+

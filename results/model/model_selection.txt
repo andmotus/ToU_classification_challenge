@@ -1,7 +1,7 @@
 Model selection summary (test set)
 --------------------------------
-log_reg: PR-AUC=0.392593, ROC-AUC=0.819634
-random_forest: PR-AUC=0.358890, ROC-AUC=0.795177
+log_reg: PR-AUC=0.392632, ROC-AUC=0.819642
+random_forest: PR-AUC=0.358612, ROC-AUC=0.795067
 
 Selected final model: log_reg
 Selection rule: PR-AUC primary, ROC-AUC secondary
